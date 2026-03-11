@@ -90,7 +90,7 @@ Ce projet analyse plus de **32 000 offres d'emploi de Data Analyst** afin d’id
 L’analyse a été réalisée avec **Microsoft Excel**, en utilisant des techniques de nettoyage de données, des tableaux croisés dynamiques et un tableau de bord interactif.
 
 # Aperçu de tableau de bord
-
+<img width="1484" height="879" alt="Dashbord " src="https://github.com/user-attachments/assets/bd6cd85a-2549-4d48-87c3-16b62cb24a0b" />
 
 ## Outils utilisés
 
@@ -131,7 +131,6 @@ Les analyses suivantes ont été effectuées :
 - Identification des villes avec la plus forte demande de recrutement
 
 ## Composantes du dashboard
-<img width="1484" height="879" alt="Dashbord " src="https://github.com/user-attachments/assets/bd6cd85a-2549-4d48-87c3-16b62cb24a0b" />
 
 Le tableau de bord Excel comprend les éléments suivants :
 
