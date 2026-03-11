@@ -131,6 +131,7 @@ Les analyses suivantes ont été effectuées :
 - Identification des villes avec la plus forte demande de recrutement
 
 ## Composantes du dashboard
+<img width="1484" height="879" alt="Dashbord " src="https://github.com/user-attachments/assets/bd6cd85a-2549-4d48-87c3-16b62cb24a0b" />
 
 Le tableau de bord Excel comprend les éléments suivants :
 
