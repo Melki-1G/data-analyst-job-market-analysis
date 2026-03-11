@@ -157,7 +157,7 @@ Le tableau de bord Excel comprend les éléments suivants :
 
 ## Auteur
 
-Melchsedek Gogoua
+Melchisedek Gogoua
 
 Analyse et conception du tableau de bord par **Melchisedek Gogoua**.  
 Projet réalisé dans le cadre du programme **Google Data Analytics Professional Certificate**.
