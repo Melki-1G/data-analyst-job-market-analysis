@@ -81,7 +81,9 @@ Melchisedek Gogoua
 Dashboard Analysis by Melchisedek Gogoua  
 Project completed as part of the **Google Data Analytics Professional Certificate**
 
-----------------------------------------------------FRENCH VERSION --------------------------------------------------------------------------
+
+## French Version / Version française
+
 
 # Analyse du marché des Data Analysts (2023)
 
